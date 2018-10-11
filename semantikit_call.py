@@ -11,7 +11,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 username = ''  # we will give you this on the hackathon day
 password = ''  # we will give you this on the hackathon day
-url = 'http://ugm.scibite.com:8090/api'
+url = 'http://ugm.scibite.com/api'
 
 
 def get_all_models():
